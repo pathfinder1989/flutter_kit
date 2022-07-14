@@ -102,4 +102,8 @@ flutter_test
 2.12
 file:///Users/kang/flutter-sdk/flutter-2.10.5/packages/flutter_test/
 file:///Users/kang/flutter-sdk/flutter-2.10.5/packages/flutter_test/lib/
+base_lib
+2.16
+file:///Users/kang/TestHub/flutter_kit/plugins/base_lib/
+file:///Users/kang/TestHub/flutter_kit/plugins/base_lib/lib/
 2

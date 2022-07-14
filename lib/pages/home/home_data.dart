@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_kit/pages/animated_container_page/animated_container_page.dart';
+import 'package:flutter_kit/pages/animated_container/animated_container_page.dart';
+import 'package:flutter_kit/pages/segment/segment_page.dart';
 
 class PageEntity {
   PageEntity({
@@ -17,4 +18,11 @@ List<PageEntity> pageList = [
     title: 'AnimatedContainer',
     page: const XKAnimatedContainerPage(),
   ),
+
+  PageEntity(
+    title: 'segment',
+    page: const XKSegmentPage(),
+  ),
+
+  
 ];
